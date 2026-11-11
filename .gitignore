@@ -9,9 +9,12 @@ Dataset/
 datasets/
 data/
 
-# Trained model files
-models/
-Saved_Models/
+# Ignore large trained models
+Saved_Models/*
+!Saved_Models/
+!Saved_Models/*.json
+
+# Ignore model weights
 *.pth
 *.h5
 *.pt
