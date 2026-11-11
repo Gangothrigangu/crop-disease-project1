@@ -1,3 +1,6 @@
+
+streamlit
+tensorflow
 torch>=2.0.0
 torchvision>=0.15.0
 timm>=0.9.0
@@ -7,6 +10,7 @@ matplotlib>=3.7.0
 seaborn>=0.12.0
 numpy>=1.24.0
 pillow>=9.5.0
-# Optional for hardware-accelerated SSM on Linux / Google Colab with CUDA:
+
+# Optional for hardware-accelerated SSM
 # causal-conv1d>=1.2.0
 # mamba-ssm>=1.2.0
