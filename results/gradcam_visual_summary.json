@@ -1,0 +1,57 @@
+[
+    {
+        "class": "Tomato___Target_Spot",
+        "filename": "08342078-4bfb-4a33-a586-a564333a1b59___Com.G_TgS_FL 0986.JPG",
+        "cnn_pred": "Tomato___Target_Spot",
+        "cnn_conf": 95.41,
+        "cnn_status": "CORRECT",
+        "mamba_pred": "Tomato___Target_Spot",
+        "mamba_conf": 61.19,
+        "mamba_status": "CORRECT",
+        "plot_path": "c:\\Users\\Gango\\Desktop\\crop disease project\\Crop_Disease_Project\\Research_Plots\\gradcam_comparison_Tomato___Target_Spot.png"
+    },
+    {
+        "class": "Grape___Black_rot",
+        "filename": "04801745-9457-41fa-97c6-7c9aa769564d___FAM_B.Rot 0367_flipLR.JPG",
+        "cnn_pred": "Grape___Black_rot",
+        "cnn_conf": 99.98,
+        "cnn_status": "CORRECT",
+        "mamba_pred": "Grape___Black_rot",
+        "mamba_conf": 91.83,
+        "mamba_status": "CORRECT",
+        "plot_path": "c:\\Users\\Gango\\Desktop\\crop disease project\\Crop_Disease_Project\\Research_Plots\\gradcam_comparison_Grape___Black_rot.png"
+    },
+    {
+        "class": "Blueberry___healthy",
+        "filename": "01ca7a9f-80a6-4693-a067-50684beda81d___RS_HL 2545_180deg.JPG",
+        "cnn_pred": "Blueberry___healthy",
+        "cnn_conf": 97.06,
+        "cnn_status": "CORRECT",
+        "mamba_pred": "Blueberry___healthy",
+        "mamba_conf": 92.81,
+        "mamba_status": "CORRECT",
+        "plot_path": "c:\\Users\\Gango\\Desktop\\crop disease project\\Crop_Disease_Project\\Research_Plots\\gradcam_comparison_Blueberry___healthy.png"
+    },
+    {
+        "class": "Apple___Apple_scab",
+        "filename": "095c9131-a0cb-47de-898a-f9371f208c01___FREC_Scab 3109_270deg.JPG",
+        "cnn_pred": "Apple___Apple_scab",
+        "cnn_conf": 99.72,
+        "cnn_status": "CORRECT",
+        "mamba_pred": "Apple___Apple_scab",
+        "mamba_conf": 89.45,
+        "mamba_status": "CORRECT",
+        "plot_path": "c:\\Users\\Gango\\Desktop\\crop disease project\\Crop_Disease_Project\\Research_Plots\\gradcam_comparison_Apple___Apple_scab.png"
+    },
+    {
+        "class": "Potato___Late_blight",
+        "filename": "00695906-210d-4a9d-822e-986a17384115___RS_LB 4026_flipTB.JPG",
+        "cnn_pred": "Potato___Late_blight",
+        "cnn_conf": 99.06,
+        "cnn_status": "CORRECT",
+        "mamba_pred": "Potato___Late_blight",
+        "mamba_conf": 50.56,
+        "mamba_status": "CORRECT",
+        "plot_path": "c:\\Users\\Gango\\Desktop\\crop disease project\\Crop_Disease_Project\\Research_Plots\\gradcam_comparison_Potato___Late_blight.png"
+    }
+]

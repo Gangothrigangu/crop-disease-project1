@@ -1,0 +1,13 @@
+{
+    "model": "VisionMamba",
+    "img_size": 256,
+    "embed_dim": 192,
+    "depth": 4,
+    "epochs_trained": 15,
+    "best_val_acc": 0.9844,
+    "accuracy": 0.9844,
+    "precision": 0.9846,
+    "recall": 0.9844,
+    "f1_score": 0.9844,
+    "training_time_minutes": 900.45
+}

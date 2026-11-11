@@ -1,0 +1,230 @@
+{
+    "Apple___Apple_scab": {
+        "cause": "Fungal infection by Venturia inaequalis favored by cool, wet spring weather.",
+        "treatment": "Rake and destroy infected leaves. Apply appropriate fungicides during the budding stage to prevent infection.",
+        "simple_explanation": "This disease causes dark, crusty spots on apple leaves and fruit. It mostly spreads during cool, rainy weather.",
+        "prevention": "Always clear fallen leaves around the tree to stop the spread. Prune branches so more sunlight and wind can dry the leaves."
+    },
+    "Apple___Black_rot": {
+        "cause": "Fungal pathogen Botryosphaeria obtusa that enters through wounds and dead tissue.",
+        "treatment": "Prune out dead or diseased wood. Apply a preventative fungicidal spray schedule starting early in the season.",
+        "simple_explanation": "Black rot makes leaves turn yellow and creates dark, rotting spots on apples. It starts when the tree has been cut or injured.",
+        "prevention": "Cut away and burn any dead or sick branches immediately. Be careful not to damage the tree bark when working around it."
+    },
+    "Apple___Cedar_apple_rust": {
+        "cause": "Fungal infection by Gymnosporangium juniperi-virginianae relying on both apple and cedar trees to complete its life cycle.",
+        "treatment": "Remove nearby cedar/juniper hosts if possible. Apply preventative fungicidal sprays when apple blossoms open.",
+        "simple_explanation": "This creates bright orange spots on your apple leaves. It strangely needs a nearby cedar or juniper tree to survive.",
+        "prevention": "If possible, do not plant apple trees near cedar trees. Spray the tree early in the spring before the blossoms fully open."
+    },
+    "Apple___healthy": {
+        "cause": "Optimal environmental conditions and successful pathogen prevention.",
+        "treatment": "No treatment needed. Continue routine watering, pruning, and monitoring.",
+        "simple_explanation": "Your apple tree looks perfectly healthy and free from diseases!",
+        "prevention": "Keep doing a great job! Maintain regular watering, fertilizing, and seasonal pruning."
+    },
+    "Blueberry___healthy": {
+        "cause": "Optimal soil acidity (pH 4.5-5.5) and pathogen-free environment.",
+        "treatment": "No treatment needed. Maintain optimal soil pH and employ general good agricultural practices.",
+        "simple_explanation": "Your blueberry plant is completely healthy!",
+        "prevention": "Blueberries love acidic soil. Continue applying acidic mulch like pine needles to keep the soil healthy."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "cause": "Fungal disease (Podosphaera clandestina) favored by high humidity and dry weather.",
+        "treatment": "Apply sulfur or potassium bicarbonate sprays. Ensure good air circulation by regular pruning.",
+        "simple_explanation": "This looks like a white, powdery dust covering the cherry leaves. It happens when it is humid but not raining.",
+        "prevention": "Prune your cherry tree to let more air flow through the branches. Don't water the tree from the top to prevent wet leaves."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "cause": "Proper care and resistance to local pathogens.",
+        "treatment": "No treatment needed. Ensure appropriate watering and sunlight.",
+        "simple_explanation": "The cherry plant is strong and healthy!",
+        "prevention": "Continue standard care. Water deeply when it's dry and cut off any dead wood during winter."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "cause": "Fungal pathogen Cercospora zeae-maydis thriving in prolonged high humidity and overcast conditions.",
+        "treatment": "Use resistant hybrids. Rotate crops and manage crop residue to reduce fungal overwintering. Apply fungicides if necessary.",
+        "simple_explanation": "This causes rectangular grey or brown spots on corn leaves, eventually killing the leaf. It spreads fast in wet, cloudy weather.",
+        "prevention": "Plant corn seeds that are resistant to spots. Do not plant corn in the exact same field two years in a row."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "cause": "Fungi Puccinia sorghi carried by wind from warmer areas, progressing in cool, humid temperatures.",
+        "treatment": "Use rust-resistant hybrids. Early foliar fungicide application can reduce severity if detected early.",
+        "simple_explanation": "You'll see dark, reddish-brown powdery bumps on both sides of the corn leaves. Wind brings this rust to the farm.",
+        "prevention": "The best defense is buying rust-resistant corn seed. Check your fields often so you can spray early if you see rusty powder."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "cause": "Fungal disease caused by Exserohilum turcicum under moderate temperatures and heavy dew/humidity.",
+        "treatment": "Plant resistant corn hybrids. Till crop residue to limit spore survival and use crop rotation.",
+        "simple_explanation": "This creates large, cigar-shaped grey spots on the corn leaves. It loves places with heavy morning dew.",
+        "prevention": "Plow any leftover corn stalks deep into the dirt after harvest so the disease can't survive the winter. Plant resistant seed types."
+    },
+    "Corn_(maize)___healthy": {
+        "cause": "Sufficient nutrients and lack of pest/pathogen pressure.",
+        "treatment": "No treatment needed. Maintain good fertilization and watering regimens.",
+        "simple_explanation": "Your corn looks green and perfectly healthy!",
+        "prevention": "Keep an eye on water levels and make sure the soil has enough fertilizer."
+    },
+    "Grape___Black_rot": {
+        "cause": "Fungal infection Guignardia bidwellii affecting leaves and rotting the grapes, favored by warm, moist weather.",
+        "treatment": "Remove infected mummies from vines. Ensure heavy canopy management for airflow, and apply protective fungicides.",
+        "simple_explanation": "Leaves show small brown spots with dark rings, and the grapes turn black and shrivel up like hard raisins.",
+        "prevention": "Pick off and burn any dead, shriveled grapes from the vine. Trim grapevines heavily so the wind dries them out fast after rain."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "cause": "A complex of fungi attacking the vine's wood, severely limiting sap and nutrient transport.",
+        "treatment": "Prune out infected wood down to healthy tissue. Disinfect pruning tools to prevent spreading. No chemical cure exists once established.",
+        "simple_explanation": "This is a serious disease inside the wood of the vine. Leaves turn yellow between the veins, and grapes get dark measles-like spots.",
+        "prevention": "Always clean your cutting tools with bleach or alcohol between plants. Cut off and burn woody parts that show dark spots inside."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "cause": "Fungus Pseudocercospora vitis spread by rain splash and wind.",
+        "treatment": "Remove and burn fallen leaves. Treat with preventative copper-based fungicides if recurring annually.",
+        "simple_explanation": "This causes large, red or brown dead patches across the grape leaves. Rain splashes it from bottom leaves upwards.",
+        "prevention": "Keep the ground under the vines completely clear of old leaves. Spraying with organic copper treatments can block the disease."
+    },
+    "Grape___healthy": {
+        "cause": "Appropriate canopy management and pest-free vines.",
+        "treatment": "No treatment needed. Continue standard vineyard maintenance operations.",
+        "simple_explanation": "Your grape vine is completely healthy and growing well!",
+        "prevention": "Provide good sunlight, keep weeds low, and prune vines in the winter for a good harvest."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "cause": "Bacterial disease spread by the Asian citrus psyllid insect.",
+        "treatment": "Currently incurable. Remove and destroy infected trees immediately to prevent spread. Control the psyllid insect populations.",
+        "simple_explanation": "This is a deadly citrus disease that causes yellow, blotchy leaves and stops oranges from turning orange. It is spread by a tiny bug.",
+        "prevention": "There is no cure. You must chop down and burn the tree immediately so it doesn't infect your other citrus trees."
+    },
+    "Peach___Bacterial_spot": {
+        "cause": "Bacterium Xanthomonas campestris pv. pruni spread by rain splash on wet leaves.",
+        "treatment": "Plant resistant varieties. Use copper or oxytetracycline sprays in early spring as a preventative measure.",
+        "simple_explanation": "Leaves get tiny purple or black spots, and holes start popping out as the leaf tries to drop the sick parts.",
+        "prevention": "Try not to get leaves wet when watering. Buy peach trees that are known to fight off leaf spots."
+    },
+    "Peach___healthy": {
+        "cause": "Good preventative care and absence of pathogens.",
+        "treatment": "No treatment needed. Keep regular pruning schedules to promote airflow.",
+        "simple_explanation": "Your peach tree is very healthy!",
+        "prevention": "Keep the area around the base clean, and trim branches that cross each other so sunlight can enter."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "cause": "Bacterium Xanthomonas campestris favored by high moisture and temperatures.",
+        "treatment": "Avoid overhead watering. Apply copper-based bactericides early. Rotate crops and remove infected plants.",
+        "simple_explanation": "This creates small, dark, water-soaked spots on the pepper leaves and the peppers themselves. Hot, wet weather makes it worse.",
+        "prevention": "Water your peppers at the base near the dirt, never spray water over the top. Plant your peppers in a different spot next year."
+    },
+    "Pepper,_bell___healthy": {
+        "cause": "Well-drained soil and healthy environmental conditions.",
+        "treatment": "No treatment needed. Keep consistent soil moisture.",
+        "simple_explanation": "Your bell pepper plant is totally healthy!",
+        "prevention": "Keep watering the dirt directly and keep weeds pulled so the plant has no competition."
+    },
+    "Potato___Early_blight": {
+        "cause": "Fungus Alternaria solani affecting older leaves first during warm, alternating wet-and-dry weather.",
+        "treatment": "Apply protectant fungicides like chlorothalonil. Practice a 3-year crop rotation.",
+        "simple_explanation": "Early blight forms dark rings on older, lower potato leaves that look like a bullseye target.",
+        "prevention": "Keep a thick layer of mulch on the ground to stop dirt splashing on the leaves. Wait 3 years before planting potatoes in the same dirt."
+    },
+    "Potato___Late_blight": {
+        "cause": "Water mold Phytophthora infestans (the pathogen of the Irish Potato Famine), thriving in cool, consistently wet conditions.",
+        "treatment": "Requires aggressive fungicidal sprays (e.g. copper formulations). Destroy infected plants and tubers immediately.",
+        "simple_explanation": "This is highly dangerous. It causes large, dark, rotting spots on leaves and potatoes very fast. Whole crops can die in days.",
+        "prevention": "Plant certified disease-free potatoes. If you see late blight, you must pull up and burn the plant far away from the farm."
+    },
+    "Potato___healthy": {
+        "cause": "Successful prevention of soil-borne and airborne pathogens.",
+        "treatment": "No treatment needed. Store harvested potatoes in cool, dry conditions.",
+        "simple_explanation": "Your potato leaves look completely healthy!",
+        "prevention": "Ensure potatoes are planted in soil that drains well. Never leave them sitting in muddy water."
+    },
+    "Raspberry___healthy": {
+        "cause": "Adequate sunlight and good soil drainage.",
+        "treatment": "No treatment needed. Thin canes in winter to ensure good spring airflow.",
+        "simple_explanation": "The raspberry plant is perfectly healthy!",
+        "prevention": "Prune away dead, grey canes in the winter so the new green stems have room to grow."
+    },
+    "Soybean___healthy": {
+        "cause": "Optimized nitrogen fixation and pest control.",
+        "treatment": "No treatment needed. Monitor periodically for pests.",
+        "simple_explanation": "Your soybean crop looks green and has no sign of disease!",
+        "prevention": "Check under the leaves every few weeks for bugs, but otherwise, they are doing great."
+    },
+    "Squash___Powdery_mildew": {
+        "cause": "Fungal species thriving in high humidity, even without direct rainfall, affecting older leaves.",
+        "treatment": "Apply sulfur or neem oil early. Ensure sufficient spacing between vines for optimal air circulation.",
+        "simple_explanation": "Older squash leaves get covered in a white powder like flour. This blocks sunlight and kills the leaf.",
+        "prevention": "Plant squash far apart so air can quickly dry out. Keep leaves dry by watering near the roots only."
+    },
+    "Strawberry___Leaf_scorch": {
+        "cause": "Fungus Diplocarpon earlianum which infects leaves via rain droplets.",
+        "treatment": "Remove infected foliage. Keep the foliage as dry as possible using drip irrigation instead of overhead sprinklers.",
+        "simple_explanation": "Strawberry leaves show dark purple blotches, making the leaves look like they have been scorched by fire.",
+        "prevention": "Only run your water hoses along the dirt. Spacing plants so they aren't touching will drastically reduce the risk."
+    },
+    "Strawberry___healthy": {
+        "cause": "Good field sanitation and weather conditions.",
+        "treatment": "No treatment needed. Maintain clean straw mulch layers to prevent soil splashing.",
+        "simple_explanation": "Your strawberry patch is completely healthy!",
+        "prevention": "Put a nice layer of straw mulch under the berries to keep them off the wet dirt so they don't rot."
+    },
+    "Tomato___Bacterial_spot": {
+        "cause": "Seed-borne or splash-spread bacterial infection (Xanthomonas) degrading foliage and fruit.",
+        "treatment": "Use disease-free seeds. Apply copper bactericides. Remove infected debris and avoid overhead watering.",
+        "simple_explanation": "Tomato leaves get many small, black or brown crusty spots. It can ruin tomatoes quickly in wet weather.",
+        "prevention": "Always use clean, fresh seeds. Avoid getting the leaves wet because water carries the bacteria."
+    },
+    "Tomato___Early_blight": {
+        "cause": "Alternaria solani fungus creating 'bullseye' target spots on lower leaves.",
+        "treatment": "Remove affected lower leaves immediately. Prevent soil splash with thick mulch. Use preventative fungicides.",
+        "simple_explanation": "Like potatoes, lower tomato leaves get dark spots shaped like targets, which slowly makes leaves turn yellow and die.",
+        "prevention": "Pick off any sick lower leaves as soon as you see them, and use a straw cover on the ground to stop splashing."
+    },
+    "Tomato___Late_blight": {
+        "cause": "Aggressive infection by Phytophthora infestans spreading rapidly in cool, wet environments.",
+        "treatment": "Apply copper-based fungicides proactively. Once severe, the plant must be removed and destroyed (do not compost).",
+        "simple_explanation": "Rapidly spreading dark, greasy-looking spots appear on leaves, and an ugly rot takes over the tomatoes.",
+        "prevention": "If you catch it, it's often too late. Destroy the plant. Never compost infected tomatoes; bury them or burn them."
+    },
+    "Tomato___Leaf_Mold": {
+        "cause": "Passalora fulva fungus that aggressively develops under high relative humidity (especially in greenhouses).",
+        "treatment": "Improve airflow and reduce relative humidity. Apply appropriate preventative fungicides before symptom onset.",
+        "simple_explanation": "Yellow spots appear on the top of leaves, while a fuzzy green/brown mold grows underneath. Mostly a problem in greenhouses.",
+        "prevention": "Space your tomato plants far apart and keep fans on or windows open if in a greenhouse so humidity drops."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "cause": "Fungus Septoria lycopersici which causes numerous small circular spots, often splashing up from the soil.",
+        "treatment": "Apply mulch to stop soil-borne spores from splashing onto leaves. Use organic or heavy-duty fungicidal sprays.",
+        "simple_explanation": "You'll see lots of tiny spots with grey centers and dark edges. They eat the leaf until it dies and falls off.",
+        "prevention": "Placing cardboard or straw over the dirt stops this particular fungus from bouncing up onto your bottom leaves."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "cause": "Microscopic arachnids spinning webs and sucking plant sap, thriving in hot, dry conditions.",
+        "treatment": "Wash off with strong water streams. Apply insecticidal soap or neem oil targeting the undersides of leaves.",
+        "simple_explanation": "Tiny, fast-moving red or black dots start sucking the juice out of your leaves, leaving a sandy-looking web behind.",
+        "prevention": "Spray them off with a hard blast of water every day. If that fails, using safe Neem Oil on the leaves will stop them."
+    },
+    "Tomato___Target_Spot": {
+        "cause": "Corynespora cassiicola fungus flourishing in prolonged periods of high humidity.",
+        "treatment": "Increase air circulation through staking and pruning. Apply fungicides as recommended.",
+        "simple_explanation": "Very similar to early blight, it shows up as brown circles. The centers often crack or fall out leaving holes.",
+        "prevention": "Stake your tomatoes up tall so they don't drag on the dirt. Cut away weak branches to let air dry out the center of the plant."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "cause": "Devastating viral infection transmitted by the Silverleaf Whitefly.",
+        "treatment": "No cure for the virus. Manage whitefly populations aggressively using insecticidal soaps, oils, or predatory insects.",
+        "simple_explanation": "The top leaves of your tomato turn yellow and curl upwards tightly into extreme shapes, and growth stops.",
+        "prevention": "The disease is injected by tiny whiteflies. Killing or trapping whiteflies early is the only way to save nearby crops."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "cause": "Highly contagious virus transmitted manually via tools, hands, and clothing (often related to tobacco use).",
+        "treatment": "No cure. Destroy infected plants immediately. Disinfect tools, wash hands thoroughly with soap, and do not smoke near tomatoes.",
+        "simple_explanation": "Leaves become thin, stringy, and show weird yellow-green patterns. It stunts the plant permanently.",
+        "prevention": "Wash your hands closely before touching plants, and do not smoke nearby (tobacco smoke carries the mosaic virus to tomatoes)."
+    },
+    "Tomato___healthy": {
+        "cause": "Consistent moisture, sufficient calcium levels, and robust pest prevention.",
+        "treatment": "No treatment needed. Keep up with pruning to allow sunlight penetration.",
+        "simple_explanation": "Your tomato plant looks super green, strong, and ready to produce fruit!",
+        "prevention": "Don't change your farming habits! Keep watering steadily and tie them up well so they support heavy fruit."
+    }
+}

@@ -1,0 +1,32 @@
+
+# Virtual environments
+newenv/
+venv/
+.venv/
+
+# Dataset
+Dataset/
+datasets/
+data/
+
+# Trained model files
+models/
+Saved_Models/
+*.pth
+*.h5
+*.pt
+*.ckpt
+*.backup
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
+src/users.json
+src/messages.json

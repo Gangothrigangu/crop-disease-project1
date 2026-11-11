@@ -1,0 +1,29 @@
+{
+    "model": "VisionMamba",
+    "img_size": 256,
+    "embed_dim": 192,
+    "depth": 4,
+    "previous_epochs": 15,
+    "finetune_epochs": 10,
+    "total_epochs": 25,
+    "lr_start": 0.0001,
+    "lr_end": 1e-05,
+    "label_smoothing": 0.1,
+    "weighted_loss": true,
+    "best_val_acc": 0.9902,
+    "final_accuracy": 0.9902,
+    "final_precision_weighted": 0.9903,
+    "final_recall_weighted": 0.9902,
+    "final_f1_weighted": 0.9902,
+    "finetune_time_minutes": 186.48,
+    "val_acc_per_epoch": [
+        0.9887,
+        0.9902,
+        0.9901
+    ],
+    "train_acc_per_epoch": [
+        0.9926,
+        0.9931,
+        0.9935
+    ]
+}

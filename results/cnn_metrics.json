@@ -1,0 +1,10 @@
+{
+    "model": "CNN",
+    "accuracy": 0.9046,
+    "precision": 0.9232,
+    "recall": 0.9046,
+    "f1_score": 0.906,
+    "support": 304,
+    "training_time_seconds": 2070.09,
+    "epochs": 10
+}
